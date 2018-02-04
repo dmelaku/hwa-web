@@ -16,6 +16,10 @@ p {
   color: #26a69a;
 }
 
+.header-bg {
+  background-color: #5225c3;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
