@@ -6,7 +6,9 @@
  * Made By MaterializeCSS.com
  */
 
-
+html2 {
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
 
 p {
   line-height: 2rem;
